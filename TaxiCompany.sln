@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiCompany", "TaxiCompany\TaxiCompany.csproj", "{F24980C0-D3F9-4298-A08D-A685F37AF6AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiCompanyDll", "TaxiCompanyDll\TaxiCompanyDll.csproj", "{D3195F4D-073D-44BD-BE72-A628FBAD5B72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F24980C0-D3F9-4298-A08D-A685F37AF6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24980C0-D3F9-4298-A08D-A685F37AF6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24980C0-D3F9-4298-A08D-A685F37AF6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24980C0-D3F9-4298-A08D-A685F37AF6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3195F4D-073D-44BD-BE72-A628FBAD5B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3195F4D-073D-44BD-BE72-A628FBAD5B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3195F4D-073D-44BD-BE72-A628FBAD5B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3195F4D-073D-44BD-BE72-A628FBAD5B72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D126037-B735-4B85-9E67-28633A88CECE}
+	EndGlobalSection
+EndGlobal
